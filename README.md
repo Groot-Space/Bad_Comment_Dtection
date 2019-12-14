@@ -1,2 +1,15 @@
 # Bad_Comment_Dtection
 네이버 뉴스 기사 및 댓글 크롤링을 통해 악성댓글 감지 및 가려주는 프로그램
+구현언어 : python 3.6
+패키지 : 
+Tensorflow 1.15.0
+konlpy
+gensim
+selenium
+
+메인파일 위치 :
+C:\Users\NohTaeHyun\Desktop\Bad_Comment_Dtection_Project\Bidirectional_LSTM\Bad_Comment_Dtection_main
+
+부가기능 :
+Get_News_articles_and_Comment = 뉴스기사, 제목, 댓글 크롤링
+re-learning = 구현되어 있는 모델을 통해 새로운 데이터 라벨 태깅
