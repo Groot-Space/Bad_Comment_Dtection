@@ -13,3 +13,5 @@ C:\Users\NohTaeHyun\Desktop\Bad_Comment_Dtection_Project\Bidirectional_LSTM\Bad_
 부가기능 :
 Get_News_articles_and_Comment = 뉴스기사, 제목, 댓글 크롤링
 re-learning = 구현되어 있는 모델을 통해 새로운 데이터 라벨 태깅
+
+자세한 내용은 ppt에 기재되어 있습니다.
