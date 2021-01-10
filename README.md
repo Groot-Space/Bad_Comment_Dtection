@@ -15,3 +15,4 @@ Get_News_articles_and_Comment = 뉴스기사, 제목, 댓글 크롤링
 re-learning = 구현되어 있는 모델을 통해 새로운 데이터 라벨 태깅
 
 자세한 내용은 ppt에 기재되어 있습니다.
+![보고서](https://github.com/Falconno7/Bad_Comment_Dtection/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20ppt.pdf)
